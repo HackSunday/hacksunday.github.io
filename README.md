@@ -1,6 +1,8 @@
 HackSunday
 ---
 
-This is the homepage of HackSunday.
+HackSunday's homepage built with [Hexo](https://hexo.io)
 
-[Visit](http://hacksunday.com)
+## License
+
+The MIT License
