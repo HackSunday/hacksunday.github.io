@@ -69,4 +69,5 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
+  branch: master
   repository: git@github.com:HackSunday/hacksunday.github.io.git
