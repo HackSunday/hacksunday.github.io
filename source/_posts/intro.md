@@ -6,7 +6,7 @@ HackSunday has been created for nearly one year on Github.
 
 "To Share, To Create" is our slogan and we are making efforts to realize that.
 
-You can reach our [Github](github.com/HackSunday) to have a glance.
+You can reach our [Github](https://github.com/HackSunday) to have a glance.
 
 The original members of the team are here listed:
 
