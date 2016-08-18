@@ -31,9 +31,12 @@ npm i hexo -g
 hexo server
 ```
 
-## Deploy to gh-pages
+## Deploy to Github pages
 
 ```
+// Generate pages
+hexo generate
+// Deploy to master branch
 hexo deploy
 ```
 
