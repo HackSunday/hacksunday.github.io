@@ -1,5 +1,7 @@
 ---
 title: The start
+author: Fantasy
+tags: HackSunday
 ---
 
 HackSunday has been created for nearly one year on Github.
